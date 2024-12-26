@@ -93,7 +93,7 @@ export default defineAppConfig({
       ],
     },
     actionButton: {
-      text: "Add a Station",
+      text: "Add a Listing",
       href:  "/submit",
     },
   },
