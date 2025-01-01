@@ -2,7 +2,6 @@ import type Emoji from "./components/OgImage/Emoji.vue";
 
 export default defineAppConfig({
   general: {
-    // todo make dynamic
     title: "Directory",
     logo: "/logo.png",
     // iconLogo: "fluent-emoji-flat:leaf-fluttering-in-wind",
@@ -25,6 +24,7 @@ export default defineAppConfig({
       icon: "tabler:bow",
       tags: {
         // options: none,select,show-all,
+        //todo make dynamic and set to select if tags exist
         display: "none",
         intersection: false,
       },
