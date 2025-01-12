@@ -12,7 +12,7 @@ export default defineAppConfig({
     // url is necessary for correct function of seo module.
     name: "Motorcycle Training Directory",
     description: "Directory of Motorcycle Training",
-    url: "https://ParkingManagementHub.com",
+    url: "https://MotoLicense.com",
     favicon: {
       image: "",
       emoji: "",
