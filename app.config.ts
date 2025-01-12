@@ -2,7 +2,7 @@ import type Emoji from "./components/OgImage/Emoji.vue";
 
 export default defineAppConfig({
   general: {
-    title: "Directory",
+    title: "Well Water Filter Directory",
     logo: "/logo.png",
     // iconLogo: "fluent-emoji-flat:leaf-fluttering-in-wind",
   },
@@ -10,8 +10,8 @@ export default defineAppConfig({
     // override the general settings for seo tags.
     // leave empty for general priority.
     // url is necessary for correct function of seo module.
-    name: "Directory",
-    description: "Directory",
+    name: "Well Water Filter Directory",
+    description: "Directory of Well Water Filters",
     url: "https://ParkingManagementHub.com",
     favicon: {
       image: "",
@@ -57,14 +57,21 @@ export default defineAppConfig({
       labelForCard: "Featured ✨",
     },
     tags: [
-      // { name: "SAAS", color: "blue" },
-      // { name: "dashboard", color: "green" },
-      // { name: "landing-page" },
-      // { name: "toolbox" },
-      // { name: "agency" },
-      // { name: "markdown-based" },
-      // { name: "basics", color: "indigo" },
-    ],
+{"name": "Well Water Treatment", "color": "gray"},
+  {"name": "Arsenic Removal", "color": "gray"},
+  {"name": "Water Softeners", "color": "gray"},
+  {"name": "UV Sterilization", "color": "gray"},
+  {"name": "Iron Removal Filters", "color": "gray"},
+  {"name": "Sediment Filters", "color": "gray"},
+  {"name": "Whole House Filtration", "color": "gray"},
+  {"name": "Reverse Osmosis Systems", "color": "gray"},
+  {"name": "Water Filters", "color": "gray"},
+  {"name": "Alkaline Systems", "color": "gray"},
+  {"name": "Lead Reduction", "color": "gray"},
+  {"name": "Under-Sink Filters", "color": "gray"},
+  {"name": "Countertop Dispensers", "color": "gray"},
+  {"name": "Pitcher Filters", "color": "gray"}
+],
     tagPages: {
       title: "Available {0} items:",
       description:
@@ -81,7 +88,7 @@ export default defineAppConfig({
     navbar: {
       colorModeSelector: true,
       links: [
-        { name: "Directory", to: "/" },
+        { name: "Well Water Filter Directory", to: "/" },
         { name: "Info", to: "/blog" },
         // { name: "Advertise", to: "/advertise" },
         // {
@@ -97,7 +104,7 @@ export default defineAppConfig({
     },
   },
   footer: {
-    description: "Directory for finding appropriate businesses, services, and products",
+    description: "Directory of Well Water Filters",
     // socials: {
     //   github: {
     //     link: "",

@@ -15,7 +15,7 @@ export default defineNuxtConfig({
     'nuxt-gtag',
   ],
   gtag: {
-    id: 'G-7WT9RR346M'
+    id: "G-W7J0F10993"
   },
 
   colorMode: {
@@ -41,7 +41,7 @@ export default defineNuxtConfig({
     
     public: {
       // todo posthog re-enable
-      // posthogPublicKey: 'phc_lIMunm30klpLvetBYKUR4tH8VWeIOJsVCLLnHB73AKA',
+      // posthogPublicKey: "placeholder",
       // posthogHost: 'https://us.i.posthog.com',
       mdc: {
         useNuxtImage: true,
@@ -56,7 +56,7 @@ export default defineNuxtConfig({
     },
   },
   site: {
-    url: "https://example.com",
+    url: "filtersfound.com",
   },
   compatibilityDate: "2024-09-20",
 });
