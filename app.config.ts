@@ -2,7 +2,7 @@ import type Emoji from "./components/OgImage/Emoji.vue";
 
 export default defineAppConfig({
   general: {
-    title: "Well Water Filter Directory",
+    title: "Motorcycle Training Directory",
     logo: "/logo.png",
     // iconLogo: "fluent-emoji-flat:leaf-fluttering-in-wind",
   },
@@ -10,8 +10,8 @@ export default defineAppConfig({
     // override the general settings for seo tags.
     // leave empty for general priority.
     // url is necessary for correct function of seo module.
-    name: "Well Water Filter Directory",
-    description: "Directory of Well Water Filters",
+    name: "Motorcycle Training Directory",
+    description: "Directory of Motorcycle Training",
     url: "https://ParkingManagementHub.com",
     favicon: {
       image: "",
@@ -57,20 +57,21 @@ export default defineAppConfig({
       labelForCard: "Featured ✨",
     },
     tags: [
-{"name": "Well Water Treatment", "color": "gray"},
-  {"name": "Arsenic Removal", "color": "gray"},
-  {"name": "Water Softeners", "color": "gray"},
-  {"name": "UV Sterilization", "color": "gray"},
-  {"name": "Iron Removal Filters", "color": "gray"},
-  {"name": "Sediment Filters", "color": "gray"},
-  {"name": "Whole House Filtration", "color": "gray"},
-  {"name": "Reverse Osmosis Systems", "color": "gray"},
-  {"name": "Water Filters", "color": "gray"},
-  {"name": "Alkaline Systems", "color": "gray"},
-  {"name": "Lead Reduction", "color": "gray"},
-  {"name": "Under-Sink Filters", "color": "gray"},
-  {"name": "Countertop Dispensers", "color": "gray"},
-  {"name": "Pitcher Filters", "color": "gray"}
+{"name": "Motorcycle Safety Foundation", "color": "gray"},
+  {"name": "Rider Safety Gear", "color": "gray"},
+  {"name": "Basic Rider Training", "color": "gray"},
+  {"name": "Motorcycle Safety Courses", "color": "gray"},
+  {"name": "Professional Rider Coaches", "color": "gray"},
+  {"name": "Motorcycle Licensing", "color": "gray"},
+  {"name": "Advanced Riding Skills", "color": "gray"},
+  {"name": "Motorcycle Safety Certification", "color": "gray"},
+  {"name": "Training Locations Map", "color": "gray"},
+  {"name": "DMV Test Waiver", "color": "gray"},
+  {"name": "Novice Rider Instruction", "color": "gray"},
+  {"name": "Motorcycle Endorsement", "color": "gray"},
+  {"name": "Weekend Classes", "color": "gray"},
+  {"name": "Custom Training Solutions", "color": "gray"},
+  {"name": "Three-Wheel Motorcycle Training", "color": "gray"}
 ],
     tagPages: {
       title: "Available {0} items:",
@@ -88,7 +89,7 @@ export default defineAppConfig({
     navbar: {
       colorModeSelector: true,
       links: [
-        { name: "Well Water Filter Directory", to: "/" },
+        { name: "Directory", to: "/" },
         { name: "Info", to: "/blog" },
         // { name: "Advertise", to: "/advertise" },
         // {
@@ -104,7 +105,7 @@ export default defineAppConfig({
     },
   },
   footer: {
-    description: "Directory of Well Water Filters",
+    description: "Directory of Motorcycle Training",
     // socials: {
     //   github: {
     //     link: "",
