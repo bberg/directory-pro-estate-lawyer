@@ -19,7 +19,7 @@ defineProps({
   <div class="not-prose grid grid-cols-1 gap-4" :class="listView ? '' : 'lg:grid-cols-4 '">
     <DirectoryEmptyQueryIndicator v-if="listings?.length === 0" />
     <DirectorySubmitBox v-if="showSubmit && submitFirst" />
-    <UiCard v-for="i in listings" :item="i" />
+    <UiCard v-for="i in listings" :item="i"/>
     <DirectorySubmitBox v-if="showSubmit && !submitFirst" />
   </div>
 </template>

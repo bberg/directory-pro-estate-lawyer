@@ -12,7 +12,7 @@ export default defineAppConfig({
     // url is necessary for correct function of seo module.
     name: "Directory",
     description: "Directory",
-    url: "https://Directory.com",
+    url: "https://ParkingManagementHub.com",
     favicon: {
       image: "",
       emoji: "",
@@ -24,8 +24,7 @@ export default defineAppConfig({
       icon: "tabler:bow",
       tags: {
         // options: none,select,show-all,
-        //todo make dynamic and set to select if tags exist
-        display: "none",
+        display: "select",
         intersection: false,
       },
     },
