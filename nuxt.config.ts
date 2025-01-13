@@ -56,7 +56,7 @@ export default defineNuxtConfig({
     },
   },
   site: {
-    url: "filtersfound.com",
+    url: "directory.com",
   },
   compatibilityDate: "2024-09-20",
 });

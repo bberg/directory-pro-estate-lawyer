@@ -2,7 +2,7 @@ import type Emoji from "./components/OgImage/Emoji.vue";
 
 export default defineAppConfig({
   general: {
-    title: "Motorcycle Training Directory",
+    title: "Directory",
     logo: "/logo.png",
     // iconLogo: "fluent-emoji-flat:leaf-fluttering-in-wind",
   },
@@ -10,8 +10,8 @@ export default defineAppConfig({
     // override the general settings for seo tags.
     // leave empty for general priority.
     // url is necessary for correct function of seo module.
-    name: "Motorcycle Training Directory",
-    description: "Directory of Motorcycle Training",
+    name: "Directory",
+    description: "Directory",
     url: "https://MotoLicense.com",
     favicon: {
       image: "",
@@ -57,21 +57,6 @@ export default defineAppConfig({
       labelForCard: "Featured ✨",
     },
     tags: [
-{"name": "Motorcycle Safety Foundation", "color": "gray"},
-  {"name": "Rider Safety Gear", "color": "gray"},
-  {"name": "Basic Rider Training", "color": "gray"},
-  {"name": "Motorcycle Safety Courses", "color": "gray"},
-  {"name": "Professional Rider Coaches", "color": "gray"},
-  {"name": "Motorcycle Licensing", "color": "gray"},
-  {"name": "Advanced Riding Skills", "color": "gray"},
-  {"name": "Motorcycle Safety Certification", "color": "gray"},
-  {"name": "Training Locations Map", "color": "gray"},
-  {"name": "DMV Test Waiver", "color": "gray"},
-  {"name": "Novice Rider Instruction", "color": "gray"},
-  {"name": "Motorcycle Endorsement", "color": "gray"},
-  {"name": "Weekend Classes", "color": "gray"},
-  {"name": "Custom Training Solutions", "color": "gray"},
-  {"name": "Three-Wheel Motorcycle Training", "color": "gray"}
 ],
     tagPages: {
       title: "Available {0} items:",
@@ -105,7 +90,7 @@ export default defineAppConfig({
     },
   },
   footer: {
-    description: "Directory of Motorcycle Training",
+    description: "Directory for finding appropriate businesses, services, and products",
     // socials: {
     //   github: {
     //     link: "",
