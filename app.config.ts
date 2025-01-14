@@ -2,7 +2,7 @@ import type Emoji from "./components/OgImage/Emoji.vue";
 
 export default defineAppConfig({
   general: {
-    title: "Directory",
+    title: "Estate Lawyers Directory",
     logo: "/logo.png",
     // iconLogo: "fluent-emoji-flat:leaf-fluttering-in-wind",
   },
@@ -10,8 +10,8 @@ export default defineAppConfig({
     // override the general settings for seo tags.
     // leave empty for general priority.
     // url is necessary for correct function of seo module.
-    name: "Directory",
-    description: "Directory",
+    name: "Estate Lawyers Directory",
+    description: "Directory of Estate Lawyers",
     url: "https://MotoLicense.com",
     favicon: {
       image: "",
@@ -57,6 +57,21 @@ export default defineAppConfig({
       labelForCard: "Featured ✨",
     },
     tags: [
+{"name": "Estate Planning", "color": "gray"},
+  {"name": "Litigation", "color": "gray"},
+  {"name": "Business Formation", "color": "gray"},
+  {"name": "Family Law", "color": "gray"},
+  {"name": "Real Estate Transactions", "color": "gray"},
+  {"name": "Tax Planning", "color": "gray"},
+  {"name": "Power of Attorney", "color": "gray"},
+  {"name": "Wills Lawyer", "color": "gray"},
+  {"name": "Medicaid Planning", "color": "gray"},
+  {"name": "Elder Law", "color": "gray"},
+  {"name": "Probate Services", "color": "gray"},
+  {"name": "Trust Administration", "color": "gray"},
+  {"name": "Asset Protection", "color": "gray"},
+  {"name": "Special Needs Planning", "color": "gray"},
+  {"name": "Charitable Trusts", "color": "gray"}
 ],
     tagPages: {
       title: "Available {0} items:",
@@ -74,7 +89,7 @@ export default defineAppConfig({
     navbar: {
       colorModeSelector: true,
       links: [
-        { name: "Directory", to: "/" },
+        { name: "Estate Lawyers Directory", to: "/" },
         { name: "Info", to: "/blog" },
         // { name: "Advertise", to: "/advertise" },
         // {
@@ -90,7 +105,7 @@ export default defineAppConfig({
     },
   },
   footer: {
-    description: "Directory for finding appropriate businesses, services, and products",
+    description: "Directory for finding estate lawyers and legal services",
     // socials: {
     //   github: {
     //     link: "",
