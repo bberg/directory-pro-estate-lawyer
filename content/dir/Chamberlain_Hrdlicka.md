@@ -1,7 +1,7 @@
 ---
 title: Chamberlain Hrdlicka
 featured: false
-invert: false
+invert: true
 card_image: logo_20.png
 description: Experienced estate planning tailored to secure your legacy and maximize wealth retention.
 tags: 
@@ -11,7 +11,7 @@ tags:
 
 <div align="center">
 <a href="https://www.chamberlainlaw.com/practices-chamberlain_hrdlicka-estate_planning.html">
-<img src="logo_20.png" alt="Logo" style="min-width: 200px; max-width: 600px; height: auto;" >
+<img src="logo_20.png" alt="Logo" style="min-width: 200px; max-width: 600px; height: auto;" class="invert">
 </a>
 </div>
 

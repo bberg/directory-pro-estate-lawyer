@@ -1,7 +1,7 @@
 ---
 title: The Titus Law Firm
 featured: false
-invert: false
+invert: true
 card_image: logo_21.png
 description: Customized estate planning to safeguard assets and minimize taxes in Texas.
 tags: 
@@ -19,7 +19,7 @@ tags:
 
 <div align="center">
 <a href="https://thetituslawfirm.com/estate-planning-attorney/">
-<img src="logo_21.png" alt="Logo" style="min-width: 200px; max-width: 600px; height: auto;" >
+<img src="logo_21.png" alt="Logo" style="min-width: 200px; max-width: 600px; height: auto;" class="invert">
 </a>
 </div>
 

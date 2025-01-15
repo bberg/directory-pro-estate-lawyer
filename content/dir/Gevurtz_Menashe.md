@@ -1,7 +1,7 @@
 ---
 title: Gevurtz Menashe
 featured: false
-invert: false
+invert: true
 card_image: logo-wide-white_2.png
 description: Expert estate planning and family law services for peace of mind and future security.
 tags: 
@@ -17,7 +17,7 @@ tags:
 
 <div align="center">
 <a href="https://gevurtzmenashe.com/estate-planning/">
-<img src="logo-wide-white_2.png" alt="Logo" style="min-width: 200px; max-width: 600px; height: auto;" >
+<img src="logo-wide-white_2.png" alt="Logo" style="min-width: 200px; max-width: 600px; height: auto;" class="invert">
 </a>
 </div>
 
