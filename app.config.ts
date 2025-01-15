@@ -12,7 +12,7 @@ export default defineAppConfig({
     // url is necessary for correct function of seo module.
     name: "Estate Lawyers Directory",
     description: "Directory of Estate Lawyers",
-    url: "https://MotoLicense.com",
+    url: "https://proestatelaw.com",
     favicon: {
       image: "",
       emoji: "",
@@ -83,13 +83,13 @@ export default defineAppConfig({
     banner: {
       show: false,
       text: "Add your listing",
-      link: "https://Directory.com",
-      brandText: "Directory",
+      link: "https://proestatelaw.com",
+      brandText: "proestatelaw",
     },
     navbar: {
       colorModeSelector: true,
       links: [
-        { name: "Estate Lawyers Directory", to: "/" },
+        { name: "Directory", to: "/" },
         { name: "Info", to: "/blog" },
         // { name: "Advertise", to: "/advertise" },
         // {
