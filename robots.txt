@@ -2,5 +2,5 @@
 User-agent: *
 Disallow: /legal/privacy-policy
 
-Sitemap: https://MotoLicense.com/sitemap.xml
+Sitemap: https://proestatelaw.com/sitemap.xml
 # END nuxt-robots
