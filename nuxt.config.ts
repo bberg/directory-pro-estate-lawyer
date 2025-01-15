@@ -15,7 +15,7 @@ export default defineNuxtConfig({
     'nuxt-gtag',
   ],
   gtag: {
-    id: "G-EMWKK8YM4R"
+    id: "G-Z4QY0TB4C4"
   },
 
   colorMode: {
