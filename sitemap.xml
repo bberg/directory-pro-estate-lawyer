@@ -33,12 +33,6 @@
             <image:loc>https://proestatelaw.com/_ipx/w_800/logo2_2.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://proestatelaw.com/_ipx/w_800/logo-experian.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://proestatelaw.com/_ipx/w_800/viewpoints-logo-subscription-jump-image_2.png</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://proestatelaw.com/_ipx/w_800/logo-wide-white_2.png</image:loc>
         </image:image>
         <image:image>
@@ -46,9 +40,6 @@
         </image:image>
         <image:image>
             <image:loc>https://proestatelaw.com/_ipx/w_800/logo-holtey-brown-newsom_2.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://proestatelaw.com/_ipx/w_800/justia.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://proestatelaw.com/_ipx/w_800/jarvis-logo.png</image:loc>
@@ -81,13 +72,7 @@
             <image:loc>https://proestatelaw.com/_ipx/w_800/EPLS-logo6-v3%252008_10_2022%2520crop%2520(3).png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://proestatelaw.com/_ipx/w_800/nw-advisors-logo-large.png</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://proestatelaw.com/_ipx/w_800/nichollscramptonlogo-fixed.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://proestatelaw.com/_ipx/w_800/publiclogo_2.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://proestatelaw.com/_ipx/w_800/pklaw_logo_only.png</image:loc>
@@ -102,19 +87,10 @@
             <image:loc>https://proestatelaw.com/_ipx/w_800/pb-logos-mobile_d.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://proestatelaw.com/_ipx/w_800/protectivelogo.png</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://proestatelaw.com/_ipx/w_800/ProvenLaw-Vector-Logo-Main.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://proestatelaw.com/_ipx/w_800/oag-opengraph.png</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://proestatelaw.com/_ipx/w_800/TTL_Logo_380x139-for-website-qtafh39km1hc47ks6lwooatd72124lz5c2k2qf692a_2.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://proestatelaw.com/_ipx/w_800/ACTEC_logo_color.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://proestatelaw.com/_ipx/w_800/logo_1x_2.png</image:loc>
@@ -358,16 +334,7 @@
         <loc>https://proestatelaw.com/dir/eninhorn_barbarito_frost_botwinick_nunn_musmanno_pc</loc>
     </url>
     <url>
-        <loc>https://proestatelaw.com/dir/experian</loc>
-        <image:image>
-            <image:loc>https://proestatelaw.com/_ipx/_/logo-experian.png</image:loc>
-        </image:image>
-    </url>
-    <url>
         <loc>https://proestatelaw.com/dir/fidelity</loc>
-        <image:image>
-            <image:loc>https://proestatelaw.com/_ipx/_/viewpoints-logo-subscription-jump-image_2.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://proestatelaw.com/dir/gepurtz_menashe</loc>
@@ -392,9 +359,6 @@
     </url>
     <url>
         <loc>https://proestatelaw.com/dir/howard_s_borenstein_estate_plan</loc>
-        <image:image>
-            <image:loc>https://proestatelaw.com/_ipx/_/justia.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://proestatelaw.com/dir/jarvis_law_office</loc>
@@ -470,20 +434,11 @@
     </url>
     <url>
         <loc>https://proestatelaw.com/dir/nerdwallet</loc>
-        <image:image>
-            <image:loc>https://proestatelaw.com/_ipx/_/nw-advisors-logo-large.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://proestatelaw.com/dir/nicholls_crampton_pa</loc>
         <image:image>
             <image:loc>https://proestatelaw.com/_ipx/_/nichollscramptonlogo-fixed.png</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://proestatelaw.com/dir/oregon_state_bar</loc>
-        <image:image>
-            <image:loc>https://proestatelaw.com/_ipx/_/publiclogo_2.png</image:loc>
         </image:image>
     </url>
     <url>
@@ -512,9 +467,6 @@
     </url>
     <url>
         <loc>https://proestatelaw.com/dir/protective_life</loc>
-        <image:image>
-            <image:loc>https://proestatelaw.com/_ipx/_/protectivelogo.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://proestatelaw.com/dir/proven_law</loc>
@@ -524,9 +476,6 @@
     </url>
     <url>
         <loc>https://proestatelaw.com/dir/state_of_california_department_of_justice</loc>
-        <image:image>
-            <image:loc>https://proestatelaw.com/_ipx/_/oag-opengraph.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://proestatelaw.com/dir/texas_trust_law</loc>
@@ -536,9 +485,6 @@
     </url>
     <url>
         <loc>https://proestatelaw.com/dir/the_american_college_of_trust_and_estate_counsel</loc>
-        <image:image>
-            <image:loc>https://proestatelaw.com/_ipx/_/ACTEC_logo_color.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://proestatelaw.com/dir/the_kulick_law_firm</loc>
@@ -580,4 +526,4 @@
         <loc>https://proestatelaw.com/legal/terms-of-service</loc>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v6.0.0 at 2025-01-15T03:33:27.005Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v6.0.0 at 2025-01-15T03:41:12.611Z -->
