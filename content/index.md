@@ -1,5 +1,7 @@
 ---
 layout: wide
+title: Find Top Estate Planning Attorneys & Probate Lawyers
+description: Compare estate planning attorneys and probate lawyers. Find legal experts for wills, trusts, estate administration, and asset protection.
 ---
 
 <table style="width:100%; height:150px;">
