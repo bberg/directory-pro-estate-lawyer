@@ -1,7 +1,7 @@
 ---
 layout: wide
-title: Find Top Estate Planning Attorneys & Probate Lawyers
-description: Compare estate planning attorneys and probate lawyers. Find legal experts for wills, trusts, estate administration, and asset protection.
+title: Estate Attorney Directory | Estate Planning & Probate
+description: Browse our directory of estate planning, probate, and elder law attorneys across the U.S. Find and compare estate lawyers by state and specialty.
 ---
 
 <table style="width:100%; height:150px;">
@@ -21,3 +21,11 @@ description: Compare estate planning attorneys and probate lawyers. Find legal e
 
 ::directory-grid
 ::
+
+## Browse the Estate Attorney Directory
+
+Find an estate lawyer by specialty or by state in our [estate attorney directory](/estate-attorney-directory).
+
+**By specialty:** [Probate lawyers](/probate-lawyers) · [Elder law attorneys](/elder-law-attorneys) · [Trust attorneys](/trust-attorneys)
+
+**By state:** [Texas](/estate-planning-attorneys-texas) · [Florida](/estate-planning-attorneys-florida) · [Nevada](/estate-planning-attorneys-nevada) · [California](/estate-planning-attorneys-california) · [New York](/estate-planning-attorneys-new-york) · [New Jersey](/estate-planning-attorneys-new-jersey) · [Virginia](/estate-planning-attorneys-virginia) · [Georgia](/estate-planning-attorneys-georgia)
