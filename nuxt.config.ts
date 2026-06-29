@@ -56,7 +56,7 @@ export default defineNuxtConfig({
     },
   },
   site: {
-    url: "proestatelaw.com",
+    url: "https://proestatelaw.com",
   },
   compatibilityDate: "2024-09-20",
 });

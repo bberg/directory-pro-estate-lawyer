@@ -29,3 +29,7 @@ Find an estate lawyer by specialty or by state in our [estate attorney directory
 **By specialty:** [Probate lawyers](/probate-lawyers) · [Elder law attorneys](/elder-law-attorneys) · [Trust attorneys](/trust-attorneys)
 
 **By state:** [Texas](/estate-planning-attorneys-texas) · [Florida](/estate-planning-attorneys-florida) · [Nevada](/estate-planning-attorneys-nevada) · [California](/estate-planning-attorneys-california) · [New York](/estate-planning-attorneys-new-york) · [New Jersey](/estate-planning-attorneys-new-jersey) · [Virginia](/estate-planning-attorneys-virginia) · [Georgia](/estate-planning-attorneys-georgia)
+
+## Browse Our Guides
+
+Explore our curated [estate lawyer guides](/best) for the best attorneys by specialty and state, or [compare estate planning attorneys](/compare) side by side to find the right fit.
